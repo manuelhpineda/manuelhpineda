@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @manuelhpineda
 - 👀 I’m interested in web development and web design
 - 🌱 I’m currently learning react.js, rust and UI/UX design
-- 📫 How to reach me manuelhpineda2000@gmail.com
+- 📫 How to reach me hello@manuelpineda.tech
 
 <!---
 manuelhpineda/manuelhpineda is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
