@@ -7,7 +7,7 @@ Web Developer with a growing passion for design
 Hello again! I am a self-motivated individual with a huge passion for what I do. I love the excitement of working in a fast passed environment. I am very adaptable to change and learning new skills. In my experience building Full-Stack Web Applications and RESTful APIs using languages and frameworks like Node.js, React.js, and Typescript.
 
 * 🌍  I'm based in Belize
-* ✉️  You can contact me at [hello@manuelpineda.tech](mailto:hello@manuelpineda.tech)
+* ✉️  You can contact me at [hello@manuelpineda.dev](mailto:hello@manuelpineda.dev)
 * 🧠  I'm learning NX, UI/UX Design, AWS
 * ⚡  Did I mentioned I love coffee?
 
